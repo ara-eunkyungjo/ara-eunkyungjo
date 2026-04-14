@@ -9,5 +9,3 @@
 #### About me (GitHub.ver)  
 - 🚧 Excited to **build customized pipelines & plugins** tailored to specific research questions  
 - ⚙️ A lazy person who **automates**, **modularizes**, and **shortcuts** almost everything to avoid repetitive tasks  
-
-🐧 More details, CV, and contact information are available on my [website](https://ara-eunkyungjo.github.io)!  
