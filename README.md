@@ -1,11 +1,12 @@
-#### Computational Social Science | Behavioral Experiments | Spatial Pipelines
+#### Computational Social Science | Behavioral Experiments | Spatial Data
 
-#### Skills  
-- 🔬 Develop and deploy online behavioral experiments using **JavaScript**, **jsPsych**, **HTML**, **CSS**, and more  
-- 📊 Perform data cleaning, processing, analysis, and visualization using **R** and **Python**  
-- 🌎 Design scalable spatial sampling pipelines using **GIS tools** and **mapping APIs** (ArcGIS, QGIS, Google Maps, OpenStreetMap, Mapillary)  
-- 😸 Build cat toys for my cat Beojji using **Arduino**  
+Lab Manager at the University of Michigan.
 
-#### About me (GitHub.ver)  
-- 🚧 Excited to **build customized pipelines & plugins** tailored to specific research questions  
-- ⚙️ A lazy person who **automates**, **modularizes**, and **shortcuts** almost everything to avoid repetitive tasks  
+I like building:
+- Behavioral experiments
+- Custom plugins
+- GIS-based data pipelines using mapping APIs
+
+Current interests: research software engineering, computational social science, geospatial data, and anything that saves me from repetitive work.
+
+Also building Arduino toys for my cat. 🐱
